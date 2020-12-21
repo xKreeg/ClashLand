@@ -1,4 +1,3 @@
-game_prefix: '§6ClashLand §7| §f'
 hub_scoreboard_title: '§e§lCLASHLAND'
-hub_bossbar_message: '§fСкидки §e20% §fпо $game_prefix$ §6CLASHLAND'
+hub_bossbar_message: '§fСкидки §e20% §fпо §6CLASHLAND'
 hub_donator_join: ' §a▶{player} §fзашёл в лобби!'
