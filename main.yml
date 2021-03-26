@@ -4,3 +4,4 @@ hub_bossbar_message: '§fСкидки до §e20% §fпо промокоду §6
 hub_donator_join: ' §a▶ {donator} §fзашёл в лобби!'
 
 chat_cooldown: '§fЧат будет доступен через §c{cooldown}'
+command_cooldown: '§fПодождите §6{cooldown} §fдля выполнения этой команды'
