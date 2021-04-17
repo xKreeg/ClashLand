@@ -4,5 +4,5 @@ vk_group: 'https://www.ClashLand.ru/vk'
 
 hub_donator_join: ' §a▶ {donator} §6зашёл в лобби!'
 
-chat_cooldown: '§fЧат будет доступен через §6{cooldown}'
+chat_cooldown: ' §7| §fЧат будет доступен через §6{cooldown}'
 command_cooldown: '§fПодождите §6{cooldown} §fдля выполнения этой команды'
