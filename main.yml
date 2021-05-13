@@ -2,7 +2,7 @@ site: 'www.clashland.ru'
 donate_site: 'https://shop.clashland.ru'
 vk_group: 'https://www.clashland.ru/vk'
 
-hub_donator_join: '{donator} §6присоединился к лобби!'
+hub_donator_join: ' {donator} §fприсоединился к лобби!'
 
 chat_cooldown: ' §7| §fЧат будет доступен через §6{cooldown}'
 command_cooldown: ' §7| §fПодождите §6{cooldown} §fдля выполнения этой команды'
